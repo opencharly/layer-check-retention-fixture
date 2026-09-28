@@ -1,7 +1,5 @@
-version: 2026.232.0520
 check-retention-fixture:
     candy:
-        version: 2026.228.0400
         description: |
             Drop /etc/charly-retention-fixture, stamped with a GENERATION string, into the
             filesystem it is composed into. The fixture layer of the retention discriminator
